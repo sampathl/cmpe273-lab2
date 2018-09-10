@@ -17,3 +17,6 @@ once in the folder run the following command to generate  gRPC code associated w
 This will generate "calculator_pb2_grpc.py" & "calculator_pb2,py" in the folder you are in.
 copy the "calculator_client.py" & "calculator_server.py" into the folder
 now run the server script in one CMD prompt and then client script in another to get and summation result.
+
+# references : https://grpc.io/docs/quickstart/python.html#install-grpc-tools
+               https://github.com/grpc/grpc
